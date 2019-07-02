@@ -1,0 +1,17 @@
+Title FlashPrint
+Version 3.20.0
+Description 
+DefaultLocation /Applications
+DeleteWarning 
+
+### Package Flags
+
+NeedsAuthorization NO
+Required NO
+Relocatable NO
+RequiresReboot NO
+UseUserMask NO
+OverwritePermissions NO
+AllowBackRev YES
+RootVolumeOnly NO
+OnlyUpdateInstalledLanguages NO
